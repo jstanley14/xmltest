@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2208415-465a-48d9-88d0-fe83bf499952" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/ActivityParser.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/Tags.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/ActivityParser.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/ActivityParser.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/Tags.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/Tags.scala" />
     </list>
     <ignored path="xml_proj.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +25,7 @@
     <favorites_list name="xml_proj" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6221374">
+    <splitter split-orientation="horizontal" split-proportion="0.5516987">
       <split-first>
         <leaf>
           <file leaf-file-name="build.sbt" pinned="false" current="false" current-in-tab="false">
@@ -40,24 +38,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ActivityParser.scala" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="ActivityParser.scala" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/scala/com/jake/xmltest/ActivityParser.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="280">
-                  <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <state vertical-scroll-proportion="-1.6026711" vertical-offset="1200" max-vertical-offset="2280">
+                  <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
                   <folding>
-                    <element signature="e#83#87#0" expanded="true" />
+                    <element signature="e#109#113#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Tags.scala" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/scala/com/jake/xmltest/Tags.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7094595" vertical-offset="0" max-vertical-offset="592">
-                  <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -66,6 +54,16 @@
       </split-first>
       <split-second>
         <leaf>
+          <file leaf-file-name="activity.xml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/activity.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+                  <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="xml_tutorial.scala" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/scala/com/jake/xmltest/xml_tutorial.scala">
               <provider selected="true" editor-type-id="text-editor">
@@ -76,11 +74,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="activity.xml" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/activity.xml">
+          <file leaf-file-name="Tags.scala" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/com/jake/xmltest/Tags.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.66611016" vertical-offset="81" max-vertical-offset="680">
+                  <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -104,15 +102,18 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/XMLTest.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/xml_tutorial.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/ActivityParser.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/Tags.scala" />
+        <option value="$PROJECT_DIR$/activity.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/jake/xmltest/ActivityParser.scala" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="1528" />
+    <option name="y" value="76" />
+    <option name="width" value="1746" />
+    <option name="height" value="935" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -243,7 +244,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -251,8 +252,8 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="FullScreen" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../speakez-rails" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -562,24 +563,24 @@
       <created>1418411043657</created>
       <updated>1418411043657</updated>
       <workItem from="1418411045112" duration="946000" />
-      <workItem from="1418411997212" duration="1743000" />
+      <workItem from="1418411997212" duration="12954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2689000" />
+    <option name="totallyTimeSpent" value="13900000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="1528" y="76" width="1746" height="935" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2391827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24080664" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24970622" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -593,7 +594,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24928367" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20446533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -659,16 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jake/xmltest/ActivityParser.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="280">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#83#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/jake/xmltest/xml_tutorial.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="980">
@@ -680,16 +671,26 @@
     <entry file="file://$PROJECT_DIR$/activity.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/jake/xmltest/Tags.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7094595" vertical-offset="0" max-vertical-offset="592">
-          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.66611016" vertical-offset="81" max-vertical-offset="680">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/jake/xmltest/ActivityParser.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6026711" vertical-offset="1200" max-vertical-offset="2280">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#109#113#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
