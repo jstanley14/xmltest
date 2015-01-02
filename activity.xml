@@ -1,0 +1,27 @@
+<data type="HMT" author="SpeakEZ 2.5" saved="Wed Jul 31 22:18:12 GMT-0600 2013" version="2.12222011">
+  <activity>
+    <weight>
+      <total>0</total>
+      <extra>0</extra>
+    </weight>
+    <metadata>
+      <type>HMT</type>
+    </metadata>
+    <containers>
+      <container x="0" y="0" width="800" height="500" borderStyle="none" borderColor="0" backgroundColor="0" backgroundAlpha="0" borderPadding="0" borderThickness="0" borderRadius="0" rotation="0" type="media">
+        <elements>
+          <element>
+            <type toolTip="">image</type>
+            <image autoplay="false" maintainAspect="false" mute="false">
+              <url>https://d3s7d0hr4rzqgi.cloudfront.net/image/5c567b25516e5c1d48254bce0bf1c9a75085b97d.jpg</url>
+              <thumbnail/>
+              <audio>
+                <source/>
+              </audio>
+            </image>
+          </element>
+        </elements>
+      </container>
+    </containers>
+  </activity>
+</data>
